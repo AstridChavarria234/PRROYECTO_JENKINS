@@ -1,0 +1,9 @@
+Started by user [8mha:////4NhkjnadO+odcpJPFC3r02PXqlrwjg0tNu3x37vfwGChAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Test
+[Test] $ /bin/sh -xe /tmp/jenkins4444208060970342570.sh
++ NOMBRE=RICARDO
++ APELLIDO=GONZALES
++ /opt/script.sh RICARDO GONZALES
+Hola, , 
+Finished: SUCCESS

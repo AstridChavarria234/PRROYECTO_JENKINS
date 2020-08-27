@@ -1,0 +1,7 @@
+https://github.com/CentOS/CentOS-Dockerfiles/tree/master/ssh/centos7
+
+https://github.com/sickp/docker-centos-sshd
+
+https://stackoverflow.com/questions/18173889/cannot-access-centos-sshd-on-docker
+
+https://www.youtube.com/watch?v=AIVYtGkv9P8

@@ -1,0 +1,20 @@
+Started by user [8mha:////4NhkjnadO+odcpJPFC3r02PXqlrwjg0tNu3x37vfwGChAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup-db-to-aws
+[SSH] script:
+DB_NAME="testdb"
+BACKUP_NAME="prueba"
+BUCKET_NAME="jenkins-udemyversion2"
+DB_HOST="db_host"
+AWS_KEY=**********
+DB_PASSWORD=**********
+
+/tmp/script_version1.sh $DB_HOST $DB_PASSWORD $DB_NAME $AWS_KEY $BUCKET_NAME $BACKUP_NAME
+
+[SSH] executing...
+Completed 1.8 KiB/1.8 KiB (1.6 KiB/s) with 1 file(s) remainingupload: ../../tmp/db-prueba.sql to s3://jenkins-udemyversion2/db-prueba.sql
+
+[SSH] completed
+[SSH] exit-status: 0
+
+Finished: SUCCESS
